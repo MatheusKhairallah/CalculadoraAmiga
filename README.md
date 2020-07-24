@@ -1,7 +1,7 @@
 # CalculadoraAmiga
 Este software é uma calculadora que interage com o usuário e seu principal objetivo é ajudar nas operações de matemática básica
 
-## Exemplo
+## Exempl
 "[...] meu nome é Zayn! Hoje serei sua calculadora [...]"
 
 ## _Capetura de tela_
