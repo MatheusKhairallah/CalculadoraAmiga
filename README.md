@@ -18,7 +18,7 @@ dotnet CalculadoraAmiga.dll
 
 Ou, se voc~e estiver no Windows, pode dar um duplo-clique no ícone do programa.
 
-## Agradecimentos
+## _Agradecimentos_
 - [Etec Adolpho Berezin](http://eteab.com.br/)
 
 - [Prof. Ermogenes](https://github.com/ermogenes)
