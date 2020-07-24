@@ -26,3 +26,6 @@ Ou, se voc~e estiver no Windows, pode dar um duplo-clique no ícone do programa.
 - [Prof. Diego](https://github.com/diegoneri)
 
 - [Dev C#](https://github.com/MatheusKhairallah/CalculadoraAmiga)
+
+## Manual do usuário
+O programa ira perguntar seu nome, tipo de operação matemática e se deseja ver os créditos do programa e então o programa vai se fechar
