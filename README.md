@@ -10,7 +10,7 @@ Este software é uma calculadora que interage com o usuário e seu principal obj
 ## _Download_
 Baixe o arquivo abaixo. Descompacte no local desejado em seu computador.
 
-[💻 Download do arquivo .zip](dist/CalculadoraAmiga.zip)
+[💻 Download do arquivo .zip](CalculadoraAmiga.zip)
 
 Execute utilizando o comando:
 
